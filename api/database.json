@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Peter Pan",
+            "yearReleased": 2003
+        },
+        {
+            "id": 2,
+            "title": "Finding Neverland",
+            "yearReleased": 2004
+        },
+        {
+            "id": 3,
+            "title": "Peter Pan (Broadway)",
+            "yearReleased": 2000
+        }
+    ]
+}
